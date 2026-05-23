@@ -104,14 +104,6 @@ pipeline deploying to Kubernetes with auto-scaling and monitoring.
 | [Nitish-portfolio](https://github.com/NitishK1/Nitish-portfolio) | Personal portfolio website | HTML, CSS |
 | [SLACK_TEST](https://github.com/NitishK1/SLACK_TEST) | Slack & GitHub integration demo | Git, Slack |
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NitishK1&show_icons=true&theme=tokyonight" alt="Nitish's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NitishK1&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
